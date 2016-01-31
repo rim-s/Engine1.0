@@ -2,10 +2,10 @@ import java.util.*;
 
 public class GameObject {
 	
-	List<Component> components;
+	private List<Component> components;
 	
 	public void GameObject(){
-		components = new ArrayList<Component>();
+		components = new List<Component>();
 	}
 	
 	public void tick(){

@@ -1,3 +1,4 @@
-public class Sprite {
-  //extends GameObject?
+public class Sprite extends GameObject {
+	//private position
+	//draw functionality
 }
